@@ -271,7 +271,7 @@ class NumberFormat extends Supervisor
             self::$builtInFormats[11] = '0.00E+00';
             self::$builtInFormats[12] = '# ?/?';
             self::$builtInFormats[13] = '# ??/??';
-            self::$builtInFormats[14] = 'm/d/yyyy'; // Despite ECMA 'mm-dd-yy';
+            self::$builtInFormats[14] = 'yyyy/m/d'; // Despite ECMA 'mm-dd-yy';
             self::$builtInFormats[15] = 'd-mmm-yy';
             self::$builtInFormats[16] = 'd-mmm';
             self::$builtInFormats[17] = 'mmm-yy';
